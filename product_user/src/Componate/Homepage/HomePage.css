@@ -1,0 +1,134 @@
+
+.article-container {
+    height: 80vh;
+    border: 1px solid #000000;
+    overflow: hidden;
+    position: relative;
+}
+
+    .article-img-holder {
+    width: 100%;
+    height: 100%;
+    background: url("https://demo2.wpopal.com/ekommart/wp-content/uploads/2020/05/h21_banner-1.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 1s;
+}
+
+.article-img-holder:hover {
+    transform: scale(1.2);
+}
+
+
+
+/*  */
+
+.bg_i2{
+    height: 40vh;
+    border: 1px solid #000000;
+    overflow: hidden;
+    position: relative;
+}
+
+.bg2_holder{
+    width: 100%;
+    height: 100%;
+    background: url("https://demo2.wpopal.com/ekommart/wp-content/uploads/2020/05/h21_banner-2.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 1s;
+}
+
+.bg2_holder:hover {
+    transform: scale(1.2);
+}
+
+/*  */
+.bg_i3{
+    height: 40vh;
+    border: 1px solid #000000;
+    overflow: hidden;
+    position: relative;
+}
+
+.bg3_holder{
+    width: 100%;
+    height: 100%;
+    background: url("https://demo2.wpopal.com/ekommart/wp-content/uploads/2020/05/h21_banner-3.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 1s;
+}
+
+.bg3_holder:hover {
+    transform: scale(1.2);
+}
+
+.hover01 figure img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.hover01 figure:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.1);
+}
+
+/* sec-3 */
+
+.s3i{
+    height: 40vh;
+    border: 1px solid #000000;
+    overflow: hidden;
+    position: relative;
+}
+
+.s3i_holder{
+    width: 100%;
+    height: 100%;
+    background: url("https://demo2.wpopal.com/ekommart/wp-content/uploads/2020/05/h21_banner-4.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 2s;
+}
+
+.s3i_holder:hover {
+    transform: scale(1.2);
+}
+
+.s3i1{
+    height: 40vh;
+    border: 1px solid #000000;
+    overflow: hidden;
+    position: relative;
+}
+
+.s3i1_holder{
+    width: 100%;
+    height: 100%;
+    background: url("https://demo2.wpopal.com/ekommart/wp-content/uploads/2020/05/h21_banner-5.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    transition: all 2s;
+}
+
+.s3i1_holder:hover {
+    transform: scale(1.2);
+}
+/* sec4 */
+
+.sec4i{
+    background: #0f0c29; 
+    height: 50vh;
+    padding-top: 35px;
+}
+
+.text{
+    z-index: 99999;
+}
